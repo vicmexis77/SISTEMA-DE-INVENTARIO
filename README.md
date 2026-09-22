@@ -158,7 +158,7 @@ npm run dev
 
 ---
 
-## 📁 Estructura de Archivos Clave
+ 📁 Estructura de Archivos Clave
 
 ```
 app/
