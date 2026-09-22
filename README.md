@@ -76,7 +76,7 @@ Acceder en: **http://localhost:8000**
 ## 🏗️ Estructura del Módulos
 
 ```
-Empresa
+Empresas
 ├── Sucursal Central
 │   ├── Bodega Principal
 │   ├── Recepción y Despacho
