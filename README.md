@@ -1,4 +1,4 @@
-# 📦 Sistema de Control de Inventario para Mipymes
+ 📦 Sistema de Control de Inventario para Mipymes
 
 Sistema web completo para la gestión de inventario empresarial con soporte multi-tenant, jerarquía organizacional (Empresa → Sucursal → Área), movimientos trazables y reportes exportables.
 
